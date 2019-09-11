@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aplicativo 2</string>
+
+    <string-array name="tpUnidade">
+        <item>KG</item>
+        <item>L</item>
+    </string-array>
+</resources>
